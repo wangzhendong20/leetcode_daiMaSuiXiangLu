@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/Link_List_/pom.xml" />
         <option value="$PROJECT_DIR$/Hash_/pom.xml" />
+        <option value="$PROJECT_DIR$/String_/pom.xml" />
+        <option value="$PROJECT_DIR$/StackAndQueue_/pom.xml" />
+        <option value="$PROJECT_DIR$/Tree_/pom.xml" />
       </list>
     </option>
   </component>

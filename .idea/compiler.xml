@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Hash_" />
+        <module name="String_" />
         <module name="Link_List_" />
+        <module name="Tree_" />
+        <module name="Hash_" />
+        <module name="StackAndQueue_" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17" />
