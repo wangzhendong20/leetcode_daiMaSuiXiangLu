@@ -11,6 +11,7 @@
         <module name="Tree_" />
         <module name="Hash_" />
         <module name="StackAndQueue_" />
+        <module name="BackTracking_" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17" />
