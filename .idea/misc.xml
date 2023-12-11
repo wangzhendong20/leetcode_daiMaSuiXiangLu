@@ -10,6 +10,10 @@
         <option value="$PROJECT_DIR$/StackAndQueue_/pom.xml" />
         <option value="$PROJECT_DIR$/Tree_/pom.xml" />
         <option value="$PROJECT_DIR$/BackTracking_/pom.xml" />
+        <option value="$PROJECT_DIR$/Greedy/pom.xml" />
+        <option value="$PROJECT_DIR$/DP_/pom.xml" />
+        <option value="$PROJECT_DIR$/MonoStack_/pom.xml" />
+        <option value="$PROJECT_DIR$/Graph_/pom.xml" />
       </list>
     </option>
   </component>
